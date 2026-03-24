@@ -88,6 +88,7 @@ Everyone can contribute to the application by reporting bugs, [improving transla
 The project experiences continuous improvement by all such forms of developer and user interaction.
 The project progress also relies on financial contributions to fund the development, coding, and testing of new functionality.
 By buying OsmAnd+ and subscribing to OsmAnd Pro (see https://osmand.net/docs/user/purchases/), you help the application become even more awesome!
+https://brunei-google.blogspot.com (Google information)
 
 The technical documentation on how to build OsmAnd can be found at https://www.osmand.net/docs/technical/build-osmand/
 
